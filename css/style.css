@@ -1638,3 +1638,116 @@ footer {
   font-size: .78rem;
   line-height: 1.7
 }
+
+/* ===============================================================
+   V4 — CORRECTIFS RESPONSIVE
+   Les surcharges inconditionnelles ajoutées dans les couches V2/V3
+   (services-grid, stats-grid, project-grid, footer-grid,
+   image-frame img, process, service-detail...) arrivaient APRÈS
+   les media queries du V1 dans le fichier. À spécificité égale,
+   la règle la plus basse gagne : les empilements mobiles du V1
+   étaient donc silencieusement annulés. Ce bloc, placé en tout
+   dernier, restaure et complète le comportement responsive.
+   =============================================================== */
+
+html, body {
+  overflow-x: hidden;
+}
+
+/* --- Tablette (≤1000px) --- */
+@media (max-width: 1000px) {
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr)
+  }
+
+  .project-grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: 300px 260px 260px 260px;
+  }
+
+  .project:first-child {
+    grid-row: auto
+  }
+
+  .service-detail {
+    grid-template-columns: 1fr;
+    gap: 30px
+  }
+
+  .service-detail img {
+    height: 320px
+  }
+
+  .image-frame img,
+  .why-image img {
+    height: 440px
+  }
+}
+
+/* --- Mobile large (≤780px) --- */
+@media (max-width: 780px) {
+  .services-grid {
+    grid-template-columns: 1fr
+  }
+
+  .process {
+    padding-right: 0
+  }
+
+  .stats-grid {
+    grid-template-columns: 1fr 1fr
+  }
+
+  .stat:nth-child(2) {
+    border-right: 0
+  }
+
+  .stat:nth-child(-n+2) {
+    border-bottom: 1px solid rgba(255, 255, 255, .1)
+  }
+
+  .footer-grid {
+    grid-template-columns: 1fr 1fr
+  }
+
+  .gallery-toolbar {
+    flex-direction: column;
+    align-items: flex-start
+  }
+}
+
+/* --- Mobile (≤600px) --- */
+@media (max-width: 600px) {
+  .stats-grid {
+    grid-template-columns: 1fr
+  }
+
+  .stat {
+    border-right: 0;
+    border-bottom: 1px solid rgba(255, 255, 255, .1) !important
+  }
+
+  .footer-grid {
+    grid-template-columns: 1fr
+  }
+
+  .service-detail img {
+    height: 260px
+  }
+
+  .contact-card,
+  .form {
+    padding: 26px
+  }
+}
+
+/* --- Petit mobile (≤500px) --- */
+@media (max-width: 500px) {
+  .reference-grid {
+    grid-template-columns: 1fr 1fr
+  }
+
+  .footer-grid {
+    grid-template-columns: 1fr
+  }
+}
