@@ -1,0 +1,1 @@
+   <?php echo password_hash('TonMotDePasse', PASSWORD_DEFAULT); ?>

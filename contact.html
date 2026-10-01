@@ -7,6 +7,11 @@
     <title>Contact — EGI-CI</title>
     <meta name="description" content="EGI-CI SARL — construction, électricité, logistique et télécoms en Côte d'Ivoire">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/png" href="assets/logos/favicon/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="assets/logos/favicon/favicon.svg" />
+    <link rel="shortcut icon" href="assets/logos/favicon/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/logos/favicon/apple-touch-icon.png" />
+    <link rel="manifest" href="assets/logos/favicon/site.webmanifest" />
 </head>
 
 <body>
@@ -16,13 +21,16 @@
     </div>
     <header class="navbar">
         <div class="container nav-inner">
-             <a class="logo" href="index.html"><img src="assets/logos/EGICICI_Logo-2-290x61.png" alt="LOGO EGICI-CI"></a>
+             <a class="logo" href="index.html"><img src="assets/logos/LOGO EGI-CI.png" alt="LOGO EGICI-CI"></a>
             <button class="menu-toggle" aria-label="Menu">☰</button>
             <nav class="nav-links">
-                <a href="index.html">Accueil</a><a href="about.html">À propos</a><a href="services.html">Services</a><a
-                    href="projects.html">Réalisations</a><a href="contact.html">Contact</a>
+                <a href="index.html">Accueil</a>
+                <a href="about.html">À propos</a>
+                <a href="services.html">Services</a>
+                <a href="projects.php">Réalisations</a>
+                <a href="contact.html">Contact</a>
                 <a class="btn btn-primary nav-cta" href="contact.html">DEMANDER UN DEVIS</a>
-            </nav>
+                </nav>
         </div>
     </header>
     <main>
@@ -46,30 +54,28 @@
                     </div>
                     <div class="contact-item"><small>EMAIL</small>info@egicici.com</div>
                 </div>
-                <form class="form reveal"
-                    onsubmit="event.preventDefault();alert('Votre demande est prête à être envoyée. Connectez ce formulaire à votre backend ou service email.');">
-                    <div class="eyebrow">DEMANDER UN DEVIS</div>
-                    <h2 style="font-size:2.2rem">DÉCRIVEZ VOTRE BESOIN.</h2>
-                    <div class="form-grid" style="margin-top:28px">
-                        <div class="field"><label>Nom complet</label><input required placeholder="Votre nom"></div>
-                        <div class="field"><label>Téléphone</label><input required placeholder="+225 ..."></div>
-                        <div class="field"><label>Email</label><input type="email" required
-                                placeholder="vous@exemple.com"></div>
-                        <div class="field"><label>Service</label><input placeholder="Construction, électricité...">
-                        </div>
-                        <div class="field full"><label>Votre projet</label><textarea required
-                                placeholder="Décrivez brièvement votre projet..."></textarea></div>
-                        <div class="field full"><button class="btn btn-primary" type="submit">ENVOYER MA
-                                DEMANDE</button></div>
+                <div class="map-card reveal">
+                    <div class="eyebrow">NOTRE LOCALISATION</div>
+                    <h2 style="font-size:2.2rem">VENEZ NOUS RENCONTRER.</h2>
+                    <div class="map-frame">
+                        <iframe
+                            src="https://www.google.com/maps?q=Riviera+4+Cit%C3%A9+Synacassi+Abidjan+C%C3%B4te+d%27Ivoire&output=embed"
+                            width="100%" height="100%" style="border:0" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"
+                            title="Localisation EGI-CI SARL — Riviera 4, Cité Synacassi, Abidjan">
+                        </iframe>
                     </div>
-                </form>
+                    <a class="btn btn-primary" style="margin-top:20px"
+                        href="https://www.google.com/maps?q=Riviera+4+Cit%C3%A9+Synacassi+Abidjan" target="_blank" rel="noopener">OUVRIR
+                        DANS GOOGLE MAPS</a>
+                </div>
             </div>
         </section>
     </main>
     <footer>
         <div class="container">
             <div class="footer-grid">
-                <div><a class="logo" href="index.html">EGI<span>-CI</span></a>
+                <div><a class="logo" href="index.html"><img src="assets/logos/LOGO EGI-CI.png" alt="LOGO EGICI-CI"></a>
                     <p style="margin-top:16px;max-width:330px">Un groupe d'experts engagé dans la promotion de
                         l'expertise nationale et africaine, avec des solutions adaptées aux besoins de ses clients.</p>
                 </div>
@@ -79,7 +85,7 @@
                         <li><a href="index.html">Accueil</a></li>
                         <li><a href="about.html">À propos</a></li>
                         <li><a href="services.html">Services</a></li>
-                        <li><a href="projects.html">Réalisations</a></li>
+                        <li><a href="projects.php">Réalisations</a></li>
                         <li><a href="contact.html">Contact</a></li>
                     </ul>
                 </div>

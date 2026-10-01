@@ -1853,4 +1853,61 @@ html, body {
     display: none;
   }
 }
- 
+ .map-card {
+  background: #fff;
+  border: 1px solid var(--line);
+  padding: 38px;
+}
+
+.map-frame {
+  margin-top: 28px;
+  position: relative;
+  width: 100%;
+  padding-bottom: 75%; /* ratio hauteur/largeur de la carte, ajustable */
+  height: 0;
+  overflow: hidden;
+  border-radius: 3px;
+}
+
+.map-frame iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 780px) {
+  .map-frame {
+    padding-bottom: 65%;
+  }
+}
+/* ===== LOGO EGI-CI (image) ===== */
+.logo {
+  display: inline-flex;
+  align-items: center;
+  flex-shrink: 0;          /* empêche le logo d'être écrasé par le menu */
+  line-height: 0;
+}
+
+.logo img {
+  display: block;
+  height: 52px;            /* navbar = 88px, on garde de l'air autour */
+  width: auto;             /* conserve les proportions */
+  max-width: 220px;
+  object-fit: contain;
+}
+
+@media (max-width: 1000px) {
+  .logo img {
+    height: 46px;
+    max-width: 180px;
+  }
+}
+
+@media (max-width: 780px) {
+  .logo img {
+    height: 42px;          /* navbar mobile = 74px */
+    max-width: 160px;
+  }
+}
