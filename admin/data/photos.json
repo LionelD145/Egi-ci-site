@@ -214,5 +214,437 @@
         "title": "Infrastructure GSM",
         "description": "",
         "created_at": "2026-10-01T05:08:21+02:00"
+    },
+    {
+        "id": "6ac20ed043a30",
+        "filename": "photo_6ac20ed041970.jpg",
+        "category": "construction",
+        "title": "Portail et barrières de contrôle d'accès",
+        "description": "",
+        "created_at": "2026-10-04T10:31:12+02:00"
+    },
+    {
+        "id": "6ac20efd18bad",
+        "filename": "photo_6ac20efd186bf.jpg",
+        "category": "construction",
+        "title": "Boutique de station-service en fin de chantier",
+        "description": "",
+        "created_at": "2026-10-04T10:31:57+02:00"
+    },
+    {
+        "id": "6ac20f2092147",
+        "filename": "photo_6ac20f2091c76.jpg",
+        "category": "construction",
+        "title": "Bâtiment de station-service avec auvent",
+        "description": "",
+        "created_at": "2026-10-04T10:32:32+02:00"
+    },
+    {
+        "id": "6ac20f4bddd8e",
+        "filename": "photo_6ac20f4bdd60e.jpg",
+        "category": "construction",
+        "title": "station service OLA Energy",
+        "description": "",
+        "created_at": "2026-10-04T10:33:15+02:00"
+    },
+    {
+        "id": "6ac20fa0e5370",
+        "filename": "photo_6ac20fa0e4eef.jpg",
+        "category": "construction",
+        "title": "Regards et caniveau de la plateforme de cuves",
+        "description": "",
+        "created_at": "2026-10-04T10:34:40+02:00"
+    },
+    {
+        "id": "6ac20fea08dc7",
+        "filename": "photo_6ac20fea069b7.jpg",
+        "category": "construction",
+        "title": "Cuve en béton sur dalle de station",
+        "description": "",
+        "created_at": "2026-10-04T10:35:54+02:00"
+    },
+    {
+        "id": "6ac21016bb676",
+        "filename": "photo_6ac21016baedf.jpg",
+        "category": "construction",
+        "title": "Dalle et regards de cuves en cours de réalisation",
+        "description": "",
+        "created_at": "2026-10-04T10:36:38+02:00"
+    },
+    {
+        "id": "6ac2106a5c1f1",
+        "filename": "photo_6ac2106a5bc4c.jpg",
+        "category": "construction",
+        "title": "Lotissement de logements : voirie et signalisation",
+        "description": "",
+        "created_at": "2026-10-04T10:38:02+02:00"
+    },
+    {
+        "id": "6ac2108917e4a",
+        "filename": "photo_6ac21089176e6.jpg",
+        "category": "construction",
+        "title": "Peinture de l'auvent d'une station Petroci",
+        "description": "",
+        "created_at": "2026-10-04T10:38:33+02:00"
+    },
+    {
+        "id": "6ac210abadadb",
+        "filename": "photo_6ac210abad5e0.jpg",
+        "category": "construction",
+        "title": "Bâtiment de station-service et esplanade",
+        "description": "",
+        "created_at": "2026-10-04T10:39:07+02:00"
+    },
+    {
+        "id": "6ac210b911c49",
+        "filename": "photo_6ac210b9116b3.jpg",
+        "category": "construction",
+        "title": "Station Petroci en cours de finition",
+        "description": "",
+        "created_at": "2026-10-04T10:39:21+02:00"
+    },
+    {
+        "id": "6ac210c9b7716",
+        "filename": "photo_6ac210c9b72aa.jpg",
+        "category": "construction",
+        "title": "Îlots de pompes sous auvent",
+        "description": "",
+        "created_at": "2026-10-04T10:39:37+02:00"
+    },
+    {
+        "id": "6ac210dc238e0",
+        "filename": "photo_6ac210dc2332c.jpg",
+        "category": "construction",
+        "title": "Auvent de station à bandeau vert et rouge",
+        "description": "",
+        "created_at": "2026-10-04T10:39:56+02:00"
+    },
+    {
+        "id": "6ac2113f853d0",
+        "filename": "photo_6ac2113f84c79.jpg",
+        "category": "telecoms",
+        "title": "Site grillagé terminé, vue 2",
+        "description": "",
+        "created_at": "2026-10-04T10:41:35+02:00"
+    },
+    {
+        "id": "6ac2114eedc9b",
+        "filename": "photo_6ac2114eed638.jpg",
+        "category": "telecoms",
+        "title": "Site grillagé terminé, vue 1",
+        "description": "",
+        "created_at": "2026-10-04T10:41:50+02:00"
+    },
+    {
+        "id": "6ac2116981e8a",
+        "filename": "photo_6ac21169816f2.jpg",
+        "category": "telecoms",
+        "title": "Pied de pylône sur massif béton",
+        "description": "",
+        "created_at": "2026-10-04T10:42:17+02:00"
+    },
+    {
+        "id": "6ac21186a25b1",
+        "filename": "photo_6ac21186a2097.jpg",
+        "category": "telecoms",
+        "title": "Contrôle des fondations par l'équipe",
+        "description": "",
+        "created_at": "2026-10-04T10:42:46+02:00"
+    },
+    {
+        "id": "6ac211a1dc9c7",
+        "filename": "photo_6ac211a1dc451.jpg",
+        "category": "telecoms",
+        "title": "Gabarit d'ancrage sur massif",
+        "description": "",
+        "created_at": "2026-10-04T10:43:13+02:00"
+    },
+    {
+        "id": "6ac211cb314aa",
+        "filename": "photo_6ac211cb3101b.jpg",
+        "category": "telecoms",
+        "title": "Terrassement et gabarit d'un pylône",
+        "description": "",
+        "created_at": "2026-10-04T10:43:55+02:00"
+    },
+    {
+        "id": "6ac211f0dee31",
+        "filename": "photo_6ac211f0de928.jpg",
+        "category": "telecoms",
+        "title": "Plaque de site, construit par EGICI",
+        "description": "",
+        "created_at": "2026-10-04T10:44:32+02:00"
+    },
+    {
+        "id": "6ac21203cd75b",
+        "filename": "photo_6ac21203cd093.jpg",
+        "category": "telecoms",
+        "title": "Plaque d'identification d'un site MTN CI",
+        "description": "",
+        "created_at": "2026-10-04T10:44:51+02:00"
+    },
+    {
+        "id": "6ac21219579a1",
+        "filename": "photo_6ac2121957438.jpg",
+        "category": "telecoms",
+        "title": "Pylône monopole vu du bas",
+        "description": "",
+        "created_at": "2026-10-04T10:45:13+02:00"
+    },
+    {
+        "id": "6ac2122be36d5",
+        "filename": "photo_6ac2122be303b.jpg",
+        "category": "construction",
+        "title": "Pylône monopole galvanisé",
+        "description": "",
+        "created_at": "2026-10-04T10:45:31+02:00"
+    },
+    {
+        "id": "6ac2124dc5fd0",
+        "filename": "photo_6ac2124dc5ac3.jpg",
+        "category": "telecoms",
+        "title": "Armoires techniques d'extérieur",
+        "description": "",
+        "created_at": "2026-10-04T10:46:05+02:00"
+    },
+    {
+        "id": "6ac2125d0eeeb",
+        "filename": "photo_6ac2125d0ea53.jpg",
+        "category": "telecoms",
+        "title": "Armoires techniques sous abri",
+        "description": "",
+        "created_at": "2026-10-04T10:46:21+02:00"
+    },
+    {
+        "id": "6ac21275ce1eb",
+        "filename": "photo_6ac21275cdbc2.jpg",
+        "category": "telecoms",
+        "title": "Local technique de site",
+        "description": "",
+        "created_at": "2026-10-04T10:46:45+02:00"
+    },
+    {
+        "id": "6ac212869442b",
+        "filename": "photo_6ac2128693ee1.jpg",
+        "category": "telecoms",
+        "title": "Pylône et local technique",
+        "description": "",
+        "created_at": "2026-10-04T10:47:02+02:00"
+    },
+    {
+        "id": "6ac212a001b49",
+        "filename": "photo_6ac212a001346.jpg",
+        "category": "telecoms",
+        "title": "Mât d'antenne sur toit-terrasse",
+        "description": "",
+        "created_at": "2026-10-04T10:47:28+02:00"
+    },
+    {
+        "id": "6ac212c14e5b6",
+        "filename": "photo_6ac212c14dfa5.jpg",
+        "category": "telecoms",
+        "title": "Pièces galvanisées de pylône en stock, vue",
+        "description": "",
+        "created_at": "2026-10-04T10:48:01+02:00"
+    },
+    {
+        "id": "6ac212e417a47",
+        "filename": "photo_6ac212e4174ee.jpg",
+        "category": "telecoms",
+        "title": "Pylône en treillis, vue de dessous",
+        "description": "",
+        "created_at": "2026-10-04T10:48:36+02:00"
+    },
+    {
+        "id": "6ac2131459675",
+        "filename": "photo_6ac2131458f0f.jpg",
+        "category": "telecoms",
+        "title": "Panneau d'identification de site",
+        "description": "",
+        "created_at": "2026-10-04T10:49:24+02:00"
+    },
+    {
+        "id": "6ac21352b9235",
+        "filename": "photo_6ac21352b8dc2.jpg",
+        "category": "telecoms",
+        "title": "Plateforme du pylône camouflé, vue d'ensemble",
+        "description": "",
+        "created_at": "2026-10-04T10:50:26+02:00"
+    },
+    {
+        "id": "6ac21367a25cd",
+        "filename": "photo_6ac21367a1f30.jpg",
+        "category": "telecoms",
+        "title": "Pylône camouflé en palmier",
+        "description": "",
+        "created_at": "2026-10-04T10:50:47+02:00"
+    },
+    {
+        "id": "6ac2138f16edf",
+        "filename": "photo_6ac2138f168d1.jpg",
+        "category": "telecoms",
+        "title": "Pylône en treillis",
+        "description": "",
+        "created_at": "2026-10-04T10:51:27+02:00"
+    },
+    {
+        "id": "6ac2139f6cc5e",
+        "filename": "photo_6ac2139f6c591.jpg",
+        "category": "telecoms",
+        "title": "Local technique et clôture de site",
+        "description": "",
+        "created_at": "2026-10-04T10:51:43+02:00"
+    },
+    {
+        "id": "6ac213d69260c",
+        "filename": "photo_6ac213d691d9f.jpg",
+        "category": "logistique",
+        "title": "Touret de câble en acier",
+        "description": "",
+        "created_at": "2026-10-04T10:52:38+02:00"
+    },
+    {
+        "id": "6ac213eb215b0",
+        "filename": "photo_6ac213eb20e52.png",
+        "category": "logistique",
+        "title": "Chariot télescopique au travail",
+        "description": "",
+        "created_at": "2026-10-04T10:52:59+02:00"
+    },
+    {
+        "id": "6ac2140b21656",
+        "filename": "photo_6ac2140b210b6.png",
+        "category": "logistique",
+        "title": "Flotte de véhicules",
+        "description": "",
+        "created_at": "2026-10-04T10:53:31+02:00"
+    },
+    {
+        "id": "6ac2141c4f61b",
+        "filename": "photo_6ac2141c4edae.png",
+        "category": "logistique",
+        "title": "Véhicule",
+        "description": "",
+        "created_at": "2026-10-04T10:53:48+02:00"
+    },
+    {
+        "id": "6ac21434f0fac",
+        "filename": "photo_6ac21434f0942.png",
+        "category": "logistique",
+        "title": "Semi-remorque plateau, vue arrière 4",
+        "description": "",
+        "created_at": "2026-10-04T10:54:12+02:00"
+    },
+    {
+        "id": "6ac2144a55047",
+        "filename": "photo_6ac2144a54a48.png",
+        "category": "logistique",
+        "title": "Tracteur Daewoo, vue de face",
+        "description": "",
+        "created_at": "2026-10-04T10:54:34+02:00"
+    },
+    {
+        "id": "6ac2145ddb0ea",
+        "filename": "photo_6ac2145ddab10.png",
+        "category": "logistique",
+        "title": "Tracteurs Renault et Daewoo sur le parc",
+        "description": "",
+        "created_at": "2026-10-04T10:54:53+02:00"
+    },
+    {
+        "id": "6ac2147e05da9",
+        "filename": "photo_6ac2147e05640.jpg",
+        "category": "logistique",
+        "title": "Flotte de tracteurs alignés sur le parc",
+        "description": "",
+        "created_at": "2026-10-04T10:55:26+02:00"
+    },
+    {
+        "id": "6ac214f37f945",
+        "filename": "photo_6ac214f37f41c.jpg",
+        "category": "logistique",
+        "title": "Camions plateau Tata EGI-CI",
+        "description": "",
+        "created_at": "2026-10-04T10:57:23+02:00"
+    },
+    {
+        "id": "6ac2150beb7c1",
+        "filename": "photo_6ac2150beaf66.jpg",
+        "category": "logistique",
+        "title": "Pick-up EGI-CI sur chantier",
+        "description": "",
+        "created_at": "2026-10-04T10:57:47+02:00"
+    },
+    {
+        "id": "6ac2151acccd2",
+        "filename": "photo_6ac2151acc581.jpg",
+        "category": "electricite",
+        "title": "Tourets de câbles en bois",
+        "description": "",
+        "created_at": "2026-10-04T10:58:02+02:00"
+    },
+    {
+        "id": "6ac2152a9992a",
+        "filename": "photo_6ac2152a991a5.jpg",
+        "category": "electricite",
+        "title": "Salle des machines, vue large",
+        "description": "",
+        "created_at": "2026-10-04T10:58:18+02:00"
+    },
+    {
+        "id": "6ac215577f37a",
+        "filename": "photo_6ac215577ee84.jpg",
+        "category": "electricite",
+        "title": "Atelier de maintenance des équipements",
+        "description": "",
+        "created_at": "2026-10-04T10:59:03+02:00"
+    },
+    {
+        "id": "6ac215851004e",
+        "filename": "photo_6ac215850f770.png",
+        "category": "electricite",
+        "title": "Soudure dans la chambre de turbine",
+        "description": "",
+        "created_at": "2026-10-04T10:59:49+02:00"
+    },
+    {
+        "id": "6ac21593c8f8a",
+        "filename": "photo_6ac21593c89fd.jpg",
+        "category": "electricite",
+        "title": "Pièces bâchées stockées en extérieur",
+        "description": "",
+        "created_at": "2026-10-04T11:00:03+02:00"
+    },
+    {
+        "id": "6ac215cc3c529",
+        "filename": "photo_6ac215cc3c006.jpg",
+        "category": "electricite",
+        "title": "Levage et manutention dans la chambre de turbine",
+        "description": "",
+        "created_at": "2026-10-04T11:01:00+02:00"
+    },
+    {
+        "id": "6ac215d94d224",
+        "filename": "photo_6ac215d94cd0a.jpg",
+        "category": "electricite",
+        "title": "Équipe de soudeurs dans la chambre de turbine",
+        "description": "",
+        "created_at": "2026-10-04T11:01:13+02:00"
+    },
+    {
+        "id": "6ac216185af09",
+        "filename": "photo_6ac216185aa0a.jpg",
+        "category": "electricite",
+        "title": "Ferraillage d'une fondation de pylône",
+        "description": "",
+        "created_at": "2026-10-04T11:02:16+02:00"
+    },
+    {
+        "id": "6ac21632a36ea",
+        "filename": "photo_6ac21632a2fc4.jpg",
+        "category": "electricite",
+        "title": "Pylône haute tension en treillis",
+        "description": "",
+        "created_at": "2026-10-04T11:02:42+02:00"
     }
 ]

@@ -541,7 +541,7 @@ h3 {
 .cta {
   position: relative;
   color: #fff;
-  background: linear-gradient(90deg, rgba(9, 20, 45, .9), rgba(9, 20, 45, .65)), url('https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=2200&q=85') center/cover
+  background: linear-gradient(90deg, rgba(9, 20, 45, .9), rgba(9, 20, 45, .65)), url('../assets/images/Capture.JPG.jpeg') center/cover
 }
 
 .cta .container {
@@ -987,7 +987,7 @@ body {
   min-height: calc(100vh - 114px);
   background:
     linear-gradient(90deg, rgba(9, 20, 45, .96) 0%, rgba(9, 20, 45, .78) 44%, rgba(9, 20, 45, .30) 100%),
-    url('https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=2400&q=90') center/cover;
+    url('../assets/images/Capture.JPG.jpeg') center/cover;
 }
 
 .hero:before {
